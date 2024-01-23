@@ -1,0 +1,25 @@
+
+        body {
+        background-color: gray;
+        font-family: Arial;
+        font-size: 20px;
+        color: aqua;
+        text-shadow: rgb(38, 139, 152) 2px 2px;
+        text-align: center;
+        margin-left: auto;
+        
+        
+        
+        }
+        button {
+            background-color: red;
+            /* Green */
+            border: none
+            color:white
+            padding: 15px 32px;
+            
+
+        }
+
+        
+    
